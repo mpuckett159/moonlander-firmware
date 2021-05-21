@@ -19,5 +19,5 @@
 #pragma once
 
 #define ORYX_CONFIGURATOR
-#define AUTO_SHIFT_TIMEOUT 120
+#define AUTO_SHIFT_TIMEOUT 130
 #define AUTO_SHIFT_NO_SETUP 
